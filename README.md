@@ -1,5 +1,5 @@
 # Designs-for-Bioprinting
-Three dimensional models for being used in 3D bioprinting
+Three dimensional models for use in 3D bioprinting
 
 # Dome Design 
 
